@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+*npm init @vitejs/app bootstrap-react -- --template react-ts*
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
